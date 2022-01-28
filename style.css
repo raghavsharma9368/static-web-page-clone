@@ -93,4 +93,24 @@ p{
     text-align: center;
 }
 
+footer{
+    padding-top: 12%;
+    float: center;
+    line-height: 50px;
+    background-color: rgb(255, 144, 124);
+       
+}
 
+footer a{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: 700;
+    color: rgb(21, 19, 102);
+    padding-left: 70px;
+}
+
+footer a:hover{  
+    color: white;
+}
